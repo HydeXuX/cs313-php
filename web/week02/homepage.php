@@ -18,5 +18,5 @@
         <img src="https://lh3.googleusercontent.com/pN8kMnnr6y8HGWqBt4C9e4-SVVtBoxsOPK0_FtTHw5SCdkx2kP7pwJE-Z05atBgQFwWuSoqZL16xtZOxhqgH77mAcKm_ghsQde1TtigX_fgN8J-2gVuzQQizfzNiM7DwWhrLUkCmS5t5O1DqmTIi9ifqbgDwxNnAsrizzQoOLh88BFOFSkwMInGNeIHsMBg2WUpXq2OljIv2kYWCzrJMW5FB-4kU1x5jxKFcBtXdBN9Sld9HgtbgyiNZ-hiQZd2BttfDju_IOqJ1_nmkgoame7NHJfU1oU3F69aIzJaesER1LE_tkfvhRqwhJiei9dk7fSP7CccE6-2qZ_cyF9Re79kFYxzQ6oGrmKMV_cIWhLKWNvxlSE1nQ11Ns4w6ij86TWDDSw1eX368BluDas-p-joL2G1RwXAEt2fSkcoOOK5sT_S-WomwEAtmIjFhOxcerVVJ3OG0J5HP_tBdvHo1k_nyouNOEXA977ocdVw_Pbu5pNdcYFLGvjztwMNxzaSHL5bPyVmEu4Aft2g1uagThVhFhwIdotjCuF2Bn3IfrROHj9r9ZwuOBA3JdBWRCQLqkksKapgScE_msCrBNdnsaDjaM7jzTsV-0L-Tl_U4UFad-Ih8BkuSzFtbBzrLw0rfDow6h22KGdNGM7K-y3VC-DXQqQg90KwQQmh0Z6HvGlXvGbxtmg24ew=w958-h720-no" alt="my drawing">    
     </div>
     <a href="assignmnets.html">Link to my assignments</a>
-    <?php echo "<p>Copyright &copy; 1998-2019" . date("Y") . " Hyde Xu</p>"; ?>
+    <?php echo "<p>Copyright &copy; 1998-" . date("Y") . " Hyde Xu</p>"; ?>
 </body>

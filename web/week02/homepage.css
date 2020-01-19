@@ -1,1 +1,7 @@
-
+body{
+    background-color: lightcyan;
+    text-align: center;
+}
+img{
+    max-width: 50%;
+}
